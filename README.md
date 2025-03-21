@@ -20,10 +20,9 @@ Drag&drop the folder in your server resources directory
 
 # IN GAME :
 
-![image|690x388](upload://jgrlljAYbTZ6ly6tTZaRiNZXwc7.jpeg)
+![image](https://github.com/user-attachments/assets/c44bb714-274b-4aa9-98cb-899e6ed4cf6c)
 
-![image|690x388](upload://ub8KVXGKlh1ncTEyQWlHZEfcSby.jpeg)
-
+![image](https://github.com/user-attachments/assets/691119fc-4f6f-438c-812d-30e81cb709ea)
 
 https://github.com/Dark-Edge/Nuevo-Paraiso-Map
 
