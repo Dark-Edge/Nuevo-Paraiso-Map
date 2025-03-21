@@ -24,8 +24,6 @@ Drag&drop the folder in your server resources directory
 
 ![image](https://github.com/user-attachments/assets/691119fc-4f6f-438c-812d-30e81cb709ea)
 
-https://github.com/Dark-Edge/Nuevo-Paraiso-Map
-
 # UPDATES :
 
 * V0.0.1 : First commit
